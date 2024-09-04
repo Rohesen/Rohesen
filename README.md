@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 <br>📚 I'm currently learning Data Analyst <br>🎯 Goals: Problem Solver <br>🎲 Fun fact: Innocent</p>
+<p align="left">✨ Creating bugs since 2018 <br>📚 I'm currently learning Data Analysis <br>🎯 Goals: Problem Solver <br>🎲 Fun fact: Innocent</p>
 
 ###
 
