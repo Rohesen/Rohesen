@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I am Rohesen Raj 🤗</h1>
+<h1 align="left">Hey 👋 I am Rohesen  🤗</h1>
 
 ###
 
-<p align="left">My name is Rohesen and I'm a Data Analyst working in a MNC since 2022</p>
+<p align="left">I'm a Data Analyst working in a MNC since 2022 and would love to collabrate on any project related to data analysis</p>
 
 ###
 
