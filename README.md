@@ -16,13 +16,14 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2018 and fixing most of them ever since 😉 <br>
+✨ Creating bugs since 2018 and fixing most of them since then 😉 <br>
 🤖 Passionate about AI, Machine Learning, Deep Learning, NLP, GenAI & AI Agents <br>
-☁️ Skilled in Azure Synapse, Databricks, and PySpark for scalable data solutions <br>
-📊 Experienced with Power BI, SQL, Excel, and Python for impactful insights <br>
-🎯 Goal: Build intelligent, efficient, and scalable solutions that solve real-world problems <br>
-🎲 Fun fact: I sometimes talk to my code like it’s my teammate 😂
+☁️ Skilled in Azure Synapse, Databricks, and PySpark <br>
+📊 Experienced in Power BI, SQL, Excel, and Python <br>
+🎯 Goal: To solve real-world problems using data and intelligent systems <br>
+🎲 Fun fact: I sometimes talk to my code like it can hear me 😂
 </p>
+
 
 ###
 
