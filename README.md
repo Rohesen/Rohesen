@@ -2,25 +2,21 @@
 
 ###
 
-<p align="left">
-I'm a Data Professional with 3+ years of experience in a multinational company since 2022. <br>
-My expertise spans across <strong>Data Analysis</strong>, <strong>Data Science</strong>, <strong>Data Engineering</strong>, and <strong>Generative AI</strong>. <br>
-I love solving real-world problems with data and collaborating on projects that push the boundaries of what’s possible with AI and cloud technologies.
-</p>
+<p align="left">I'm a Data Analyst with 3+ years of experience, working in a multinational company since 2022. I specialize in turning complex data into actionable insights and would love to collaborate on projects involving data analysis, machine learning, or cloud-based data engineering!</p>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">
-✨ Creating bugs since 2018 and debugging like a pro ever since 😉 <br>
-📊 Expertise: Power BI, Python, SQL, Excel <br>
-🧠 AI & ML: Machine Learning, Deep Learning, NLP, GenAI, AI Agents <br>
-🚀 Engineering Tools: PySpark, Azure Synapse, Databricks <br>
-🎯 Goal: Build intelligent, scalable, and impactful data solutions <br>
-🎲 Fun fact: I whisper to my datasets before running machine learning models 😂
+✨ Creating bugs since 2018 and fixing most of them since then 😉 <br>
+🤖 Passionate about AI, Machine Learning, Deep Learning, NLP, GenAI & AI Agents <br>
+☁️ Skilled in Azure Synapse, Databricks, and PySpark <br>
+📊 Experienced in Power BI, SQL, Excel, and Python <br>
+🎯 Goal: To solve real-world problems using data and intelligent systems <br>
+🎲 Fun fact: I sometimes talk to my code like it can hear me 😂
 </p>
 
 ###
@@ -42,12 +38,9 @@ I love solving real-world problems with data and collaborating on projects that 
   <img width="12" />
   <img src="https://databricks.com/wp-content/uploads/2021/10/db-symbol.png" height="40" alt="Databricks logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Apache_Spark_logo.svg" height="40" alt="Apache Spark logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Deep_learning.jpg" height="40" alt="Deep Learning logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="GenAI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Apache_Spark_logo.svg" height="40" alt="PySpark logo" />
 </div>
+
 
 ###
 
