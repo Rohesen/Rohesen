@@ -3,9 +3,10 @@
 ###
 
 <p align="left">
-I'm an Associate Software Engineer with 3+ years of experience, working in a multinational company since 2022. <br>
-I work on real-world projects involving <strong>Data Analysis</strong>, <strong>Data Engineering</strong>, <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Generative AI</strong>. <br>
-Always up for collaboration on innovative data-driven solutions!
+Hey there! I'm an Associate Software Engineer with 3+ years of experience, working at an MNC since 2022.  
+I get to play around with cool stuff like Data Analysis, Data Engineering, Data Science, Machine Learning, and Generative AI.  
+Always up for teaming up on fun and meaningful data projects!
+
 </p>
 
 ###
