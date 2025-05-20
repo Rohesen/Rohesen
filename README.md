@@ -34,11 +34,11 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-1.svg" height="40" alt="Azure logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" height="40" alt="Azure logo" />
   <img width="12" />
-  <img src="https://databricks.com/wp-content/uploads/2021/10/db-symbol.png" height="40" alt="Databricks logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" alt="Databricks logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Apache_Spark_logo.svg" height="40" alt="PySpark logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="PySpark logo" />
 </div>
 
 
