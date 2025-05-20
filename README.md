@@ -3,11 +3,11 @@
 ###
 
 <p align="left">
-Hey there! I'm an Associate Software Engineer with 3+ years of experience, working at an MNC since 2022.  
-I get to play around with cool stuff like Data Analysis, Data Engineering, Data Science, Machine Learning, and Generative AI.  
-Always up for teaming up on fun and meaningful data projects!
-
+  Hey there! 👋 I'm an <strong>Associate Software Engineer</strong> with <strong>3+ years of experience</strong>, working at an <strong>MNC</strong> since 2022. <br>
+  I get to work on exciting stuff like <strong>Data Analysis 📊</strong>, <strong>Data Engineering ⚙️</strong>, <strong>Data Science 📚</strong>, <strong>Machine Learning 🤖</strong>, and <strong>Generative AI 🔮</strong>. <br>
+  Always up for teaming up on meaningful <strong>data-driven projects 🚀</strong> that make an impact!
 </p>
+
 
 ###
 
