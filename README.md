@@ -2,26 +2,30 @@
 
 ###
 
-<p align="left">I'm a Data Analyst with 3+ years of experience, working in a multinational company since 2022. I specialize in turning complex data into actionable insights and would love to collaborate on projects involving data analysis, machine learning, or cloud-based data engineering!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">
-✨ Creating bugs since 2018 and fixing most of them since then 😉 <br>
-🤖 Passionate about AI, Machine Learning, Deep Learning, NLP, GenAI & AI Agents <br>
-☁️ Skilled in Azure Synapse, Databricks, and PySpark <br>
-📊 Experienced in Power BI, SQL, Excel, and Python <br>
-🎯 Goal: To solve real-world problems using data and intelligent systems <br>
-🎲 Fun fact: I sometimes talk to my code like it can hear me 😂
+I'm an Associate Software Engineer with 3+ years of experience, working in a multinational company since 2022. <br>
+I work on real-world projects involving <strong>Data Analysis</strong>, <strong>Data Engineering</strong>, <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Generative AI</strong>. <br>
+Always up for collaboration on innovative data-driven solutions!
 </p>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">
+✨ Creating bugs since 2018 and fixing most of them ever since 😉 <br>
+🤖 Passionate about AI, Machine Learning, Deep Learning, NLP, GenAI & AI Agents <br>
+☁️ Skilled in Azure Synapse, Databricks, and PySpark for scalable data solutions <br>
+📊 Experienced with Power BI, SQL, Excel, and Python for impactful insights <br>
+🎯 Goal: Build intelligent, efficient, and scalable solutions that solve real-world problems <br>
+🎲 Fun fact: I sometimes talk to my code like it’s my teammate 😂
+</p>
+
+###
+
+<h2 align="left">🧰 Tech Stack</h2>
 
 ###
 
@@ -41,7 +45,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="PySpark logo" />
 </div>
 
-
 ###
 
 <h2 align="left">📜 Certifications</h2>
@@ -57,8 +60,10 @@
   <li>🏅 <strong>CLF-C02</strong>: AWS Certified Cloud Practitioner</li>
 </ul>
 
+###
 
-### ✍️ Random Dev Quote
+<h2 align="left">✍️ Random Dev Quote</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ![Visitor Count](https://profile-counter.glitch.me/mdanielscottofficial/count.svg)
