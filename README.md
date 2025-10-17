@@ -60,6 +60,9 @@
   <li>🏅 <strong>AI-900</strong>: Microsoft Azure AI Fundamentals</li>
   <li>🏅 <strong>AZ-204</strong>: Developing Solutions for Microsoft Azure</li>
   <li>🏅 <strong>CLF-C02</strong>: AWS Certified Cloud Practitioner</li>
+  <li>🏅 <strong>AI-102</strong>: Microsoft Certified: Azure AI Engineer Associate</li>
+  <li>🏅 <strong>DP-1004</strong>: Microsoft Certified: Azure Data Scientist Associate</li>
+  <li>🏅 <strong>SOL-C01</strong>: SnowPro Associate: Platform Certification</li>
 </ul>
 
 ###
