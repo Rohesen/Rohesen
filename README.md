@@ -34,7 +34,7 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Aws_logo.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" height="40" alt="SQL logo" />
   <img width="12" />
