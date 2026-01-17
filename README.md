@@ -57,12 +57,12 @@
   <li>🏅 <strong>CLF-C02</strong>: AWS Certified Cloud Practitioner</li>
   <li>🏅 <strong>PL-300</strong>: Microsoft Power BI Data Analyst Associate</li>
   <li>🏅 <strong>AZ-900</strong>: Microsoft Azure Fundamentals</li>
+  <li>🏅 <strong>SOL-C01</strong>: SnowPro Associate: Platform Certification</li>
   <li>🏅 <strong>DP-900</strong>: Microsoft Azure Data Fundamentals</li>
   <li>🏅 <strong>AI-900</strong>: Microsoft Azure AI Fundamentals</li>
   <li>🏅 <strong>AZ-204</strong>: Developing Solutions for Microsoft Azure</li>
   <li>🏅 <strong>AI-102</strong>: Microsoft Certified: Azure AI Engineer Associate</li>
   <li>🏅 <strong>DP-1004</strong>: Microsoft Certified: Azure Data Scientist Associate</li>
-  <li>🏅 <strong>SOL-C01</strong>: SnowPro Associate: Platform Certification</li>
 </ul>
 
 ###
