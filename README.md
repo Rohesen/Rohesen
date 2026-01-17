@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Hey there! 👋 I'm an <strong>Associate Software Engineer</strong> with <strong>3+ years of experience</strong>, working at an <strong>MNC</strong> since 2022. <br>
+  Hey there! 👋 I'm an <strong>Associate Software Engineer</strong> with <strong>4 years of experience</strong>, working at an <strong>MNC</strong> since 2022. <br>
   I get to work on exciting stuff like <strong>Data Analysis 📊</strong>, <strong>Data Engineering ⚙️</strong>, <strong>Data Science 📚</strong>, <strong>Machine Learning 🤖</strong>, and <strong>Generative AI 🔮</strong>. <br>
   Always up for teaming up on meaningful <strong>data-driven projects 🚀</strong> that make an impact!
 </p>
@@ -18,7 +18,7 @@
 <p align="left">
 ✨ Creating bugs since 2018 and fixing most of them since then 😉 <br>
 🤖 Passionate about AI, Machine Learning, Deep Learning, NLP, GenAI & AI Agents <br>
-☁️ Skilled in Azure Synapse, Databricks, and PySpark <br>
+☁️ Skilled in AWS, Azure, Databricks, and PySpark <br>
 📊 Experienced in Power BI, SQL, Excel, and Python <br>
 🎯 Goal: To solve real-world problems using data and intelligent systems <br>
 🎲 Fun fact: I sometimes talk to my code like it can hear me 😂
